@@ -6,6 +6,6 @@
 - Студент във Пловдивски Университет Паисий Хилендарски 
 - Специалност: Софтуерно инженерство 2-ри курс 
 - Езици за програмиране : Javascript,Java на базово и фундаментално ниво
-- Инструменти и умения : разработване на FROND END  И SERVER SIDE APPLICATION със React,Node.js , база данни : MongoDB,Firebase 
+- Инструменти и умения : разработване на FRONT END  И SERVER SIDE APPLICATION със React,Node.js , база данни : MongoDB,Firebase 
 - Любител на спорта в частност футбол и кросфит
 - Курсове : Soft Academy, Udemy
