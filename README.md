@@ -1,11 +1,8 @@
 ### My overview about my skills 👋
 
-
-Информация:
-
-- Студент във Пловдивски Университет Паисий Хилендарски 
-- Специалност: Софтуерно инженерство 2-ри курс 
-- Езици за програмиране : Javascript,Java на базово и фундаментално ниво
-- Инструменти и умения : разработване на FRONT END  И SERVER SIDE APPLICATION със React,Node.js , база данни : MongoDB,Firebase 
-- Любител на спорта в частност футбол и кросфит
-- Курсове : Soft Academy, Udemy
+- Student at Plovdiv University Paisii Hilendarski
+- Specialty: Software Engineering 2nd year
+- Programming language: Javascript
+- Tools and skills: React.Js, MongoDB, Firebase, Node.Js/Express.js, RestFullApi.
+- Football and Crossfit lover
+- Courses: Software University, Soft Academy, Udemy
