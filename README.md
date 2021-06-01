@@ -1,4 +1,4 @@
-### skills 👋
+### Skills 👋
 
 - Student at Plovdiv University Paisii Hilendarski
 - Specialty: Software Engineering 2nd year
