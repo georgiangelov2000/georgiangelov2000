@@ -15,6 +15,7 @@
 - React.Js
 - Node.Js/Express.js
 - LARAVEL
+- JQUERY
 - MongoDB
 - MYSQL
 - Firebase
