@@ -2,11 +2,9 @@
 ### Skills 👋
 - Student at Plovdiv University Paisii Hilendarski
 - Specialty: Software Engineering 2nd year
-#### Programming language: 
+#### Programming languages: 
 - Javascript
-- PHP
-- PHP CORE
-- PHP OOP
+- PHP-Core,PHP-OOP
 #### Additional Information
 - Wordpress
 - CPANEL
