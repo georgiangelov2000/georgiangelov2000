@@ -1,4 +1,4 @@
-# Fullstack developer in Invest-365
+# Fullstack developer at Invest-365
 ### Skills 👋
 - Student at Plovdiv University Paisii Hilendarski
 - Specialty: Software Engineering 2nd year
@@ -20,6 +20,8 @@
 - MYSQL
 - Firebase
 - RestFullApi
+- SSH Skills
+- Linux
 #### Football and Crossfit lover
 #### Courses: 
 - Software University 
