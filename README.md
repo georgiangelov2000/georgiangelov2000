@@ -17,11 +17,10 @@
 - LARAVEL
 - JQUERY
 - MongoDB
-- MYSQL
+- SQL/MYSQL
 - Firebase
 - RestFullApi
-- SSH Skills
-- Linux
+- Linux Server
 #### Football and Crossfit lover
 #### Courses: 
 - Software University 
