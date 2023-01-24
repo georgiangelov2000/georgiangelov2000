@@ -1,7 +1,7 @@
 # Fullstack developer at Transmatico GmbH
 ### Skills 👋
 - Student at Plovdiv University Paisii Hilendarski
-- Specialty: Software Engineering 2nd year
+- Specialty: Software Engineering 4nd year
 #### Programming languages: 
 - Javascript
 - PHP-Core,PHP-OOP
@@ -21,6 +21,7 @@
 - Firebase
 - RestFullApi
 - Linux Server
+- Docker/Docker Compose
 #### Football and Crossfit lover
 #### Courses: 
 - Software University 
