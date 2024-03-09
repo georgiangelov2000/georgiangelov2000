@@ -3,8 +3,8 @@
 👋 Hello! I'm Georgi Angelov, a full-stack developer with a focus on JavaScript and PHP technologies. Currently a student at Plovdiv University Paisii Hilendarski, specializing in Software Engineering in my 4th year.
 
 # Programming Languages:
- -PHP
- -JAVASCRIPT
+ - PHP
+ - JAVASCRIPT
 
 # Frameworks/Libraries:
 - Laravel
