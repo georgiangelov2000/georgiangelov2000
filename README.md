@@ -1,6 +1,11 @@
 # Fullstack Developer at Transmatico GmbH
 
-👋 Hello! I'm Georgi Angelov, a full-stack developer with a focus on JavaScript and PHP technologies. Currently a student at Plovdiv University Paisii Hilendarski, specializing in Software Engineering in my 4th year.
+👋 Hello! I'm Georgi Angelov, a full-stack developer with a focus on JavaScript and PHP technologies. Bachelor at Plovdiv University Paisii Hilendarski, specializing in Software Engineering.
+# Fundamentals
+- Data structures and algorithms
+- System Design
+- Database architecture
+- Software architecture
 # Programming Languages:
  - PHP
  - JAVASCRIPT
@@ -10,6 +15,7 @@
 - React
 # Databases:
 - Relational databases (SQL, MYSQL, POSTGRESQL)
+- Redis
 # OS:
 - Debian-based OS
 # Tools:
