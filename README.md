@@ -10,7 +10,7 @@
 *Faculty of Mathematics and Informatics (FMI)*  
 - **Duration:** 06/2019 – 09/2024  
 - **Location:** Plovdiv, Bulgaria  
-- **Grade:** 5.26 (Excellent)  
+- **Grade:** 5.26  
 
 ### Master’s Degree in Cybersecurity  
 **Plovdiv University "Paisii Hilendarski"**  
