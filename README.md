@@ -1,6 +1,6 @@
-# 👨‍💻 Fullstack Developer | Georgi Angelov  
+# 👨‍💻 Software engineer | Georgi Angelov  
 
-👋 Hi there! I'm Georgi Angelov, a passionate full-stack developer specializing in Web development. With a strong foundation in software engineering and a focus on building scalable and efficient applications, I love creating innovative solutions for complex problems.
+👋 Hi there! I'm Georgi Angelov, a passionate Software engineer specializing in Web development. With a strong foundation in software engineering and a focus on building scalable and efficient applications, I love creating innovative solutions for complex problems.
 
 ---
 
